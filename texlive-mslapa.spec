@@ -1,3 +1,9 @@
+# revision 17514
+# category Package
+# catalog-ctan /macros/latex/contrib/mslapa
+# catalog-date 2010-03-20 19:23:31 +0100
+# catalog-license other-free
+# catalog-version undef
 Name:		texlive-mslapa
 Version:	20100320
 Release:	1
@@ -43,6 +49,7 @@ citation and reference style.
 %doc %{_texmfdistdir}/doc/latex/mslapa/examp.tex
 %doc %{_texmfdistdir}/doc/latex/mslapa/mslapa.pdf
 %doc %{_texmfdistdir}/doc/latex/mslapa/mslapa.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -53,3 +60,5 @@ citation and reference style.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

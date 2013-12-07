@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-mslapa
 Version:	20100320
-Release:	3
+Release:	4
 Summary:	Michael Landy's APA citation style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mslapa

@@ -5,8 +5,8 @@
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-mslapa
-Version:	20100320
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Michael Landy's APA citation style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mslapa

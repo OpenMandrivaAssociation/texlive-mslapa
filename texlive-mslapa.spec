@@ -1,5 +1,5 @@
 Name:		texlive-mslapa
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Michael Landy's APA citation style
 Group:		Publishing

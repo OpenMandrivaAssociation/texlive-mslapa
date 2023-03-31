@@ -1,6 +1,6 @@
 Name:		texlive-mslapa
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Michael Landy's APA citation style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mslapa

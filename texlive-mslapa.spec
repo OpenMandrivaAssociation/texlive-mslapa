@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	Michael Landy's APA citation style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mslapa
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mslapa
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mslapa.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mslapa.doc.r%{version}.tar.xz
